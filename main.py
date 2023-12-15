@@ -6,7 +6,7 @@ def main():
     print(os.system("ls -l"))
     print(os.system("pwd"))
     print("Finished!")
-    print("New changes3")
+    print("New changes4")
 
 
 if __name__ == "__main__":
